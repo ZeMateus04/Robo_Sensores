@@ -17,9 +17,9 @@ Trabalho de Robótica sensorial, utilizando sensores de proximidade
      
    Modelo do Robô NAO (incluído nas bibliotecas padrão do CoppeliaSim).
    
-   Estrutura da Cena:
+  - Estrutura da Cena:
    
-  - A cena deve conter:
+  A cena deve conter:
      O Robô NAO (objeto raiz /NAO).
      Três Sensores de Proximidade (de preferência do tipo cônico, como visto na imagem) montados na frente do robô:
      
